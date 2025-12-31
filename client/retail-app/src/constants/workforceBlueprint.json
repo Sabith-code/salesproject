@@ -1,0 +1,15 @@
+{
+    "layout": "single",
+    "charts": [
+      {
+        "type": "line",
+        "title": "Staff Utilization",
+        "data": [
+          { "day": "Mon", "value": 65 },
+          { "day": "Tue", "value": 80 }
+        ]
+      }
+    ],
+    "recommendation": "Ask about workforce optimization."
+  }
+  

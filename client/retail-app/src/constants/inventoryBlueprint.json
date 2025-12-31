@@ -1,0 +1,15 @@
+{
+    "layout": "single",
+    "charts": [
+      {
+        "type": "bar",
+        "title": "Stock Levels",
+        "data": [
+          { "name": "Item A", "value": 40 },
+          { "name": "Item B", "value": 15 }
+        ]
+      }
+    ],
+    "recommendation": "Ask about low stock items."
+  }
+  

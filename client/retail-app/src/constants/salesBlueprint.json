@@ -1,0 +1,26 @@
+{
+    "layout": "two-column",
+    "charts": [
+      {
+        "type": "bar",
+        "title": "Top Selling Products",
+        "data": [
+          { "name": "Product A", "value": 120 },
+          { "name": "Product B", "value": 95 },
+          { "name": "Product C", "value": 70 }
+        ]
+      },
+      {
+        "type": "line",
+        "title": "Daily Revenue",
+        "data": [
+          { "day": "Mon", "value": 400 },
+          { "day": "Tue", "value": 520 },
+          { "day": "Wed", "value": 610 },
+          { "day": "Thu", "value": 480 }
+        ]
+      }
+    ],
+    "recommendation": "Ask about sales trends, revenue drops, or top products."
+  }
+  
